@@ -1,1 +1,1 @@
-# top_linked_lists
+Ruby code designed to implement linked lists, as practice with dynamic data structures. Completed as part of [The Odin Project Curriculum](http://www.theodinproject.com/ruby-programming/linked-lists).
